@@ -1,10 +1,10 @@
 # Dominic Baca
 
-**Senior software engineer · MCP & AI agent tooling · TypeScript, Cloudflare Workers, Postgres**
+**Lead software engineer · MCP & AI agent tooling · TypeScript, Cloudflare Workers, Postgres**
 
 I build and ship whole systems end to end. For nearly nine years I was the solo developer behind grants, invoicing and intranet platforms at a state housing finance authority (.NET, Blazor, SQL Server). On my own time I build TypeScript products and AI agent tooling: I plan the work, AI agents execute it, and tests and guardrails gate it.
 
-I'm looking for a senior engineering role on a team that builds developer or AI tooling.
+I'm looking for a lead or senior engineering role on a team that builds developer or AI tooling.
 
 ## What I've built
 
